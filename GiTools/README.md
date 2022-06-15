@@ -1,5 +1,24 @@
 # [Linux-PrivEsc](https://github.com/Anlominus/Linux-PrivEsc) ~ [GiTools](https://github.com/Anlominus/Linux-PrivEsc/tree/main/GiTools)
- 
+
+---
+
+```shell
+mkdir Linux-PrivEsc-GiTools
+cd Linux-PrivEsc-GiTools
+git clone https://github.com/carlospolop/PEASS-ng
+git clone https://github.com/1N3/PrivEsc
+git clone https://github.com/diego-treitos/linux-smart-enumeration
+git clone https://github.com/liamg/traitor
+git clone https://github.com/mr-r3b00t/LinuxPrivescToolkit
+git clone https://github.com/FabioDefilippo/linuxallenum
+git clone https://github.com/arwynsharma/privesc
+git clone https://github.com/swisskyrepo/PayloadsAllTheThings
+git clone https://github.com/CristinaSolana/ggtfobins
+git clone https://github.com/netspooky/gtfoplus
+```
+
+---
+
 ## [PEASS-ng](https://github.com/carlospolop/PEASS-ng)
   > PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 ## [PrivEsc](https://github.com/1N3/PrivEsc)

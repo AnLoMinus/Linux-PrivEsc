@@ -1,7 +1,7 @@
 <div align="center">
   
 # [Linux-PrivEsc](https://github.com/Anlominus/Linux-PrivEsc)
-Linux PrivEsc ~ [Tools]() | [Cheat Sheets]() | [Notes]() | More..
+[Tools]() | [Cheat Sheets]() | [Notes]() 
 
 </div>
 

@@ -21,8 +21,8 @@
 ---
   
 <div align="center">
-  
-# [Linux-PrivEsc](https://github.com/Anlominus/Linux-PrivEsc)
-[Tools](https://github.com/Anlominus/Linux-PrivEsc/tree/main/GiTools#linux-privesc--gitools) | [Cheat Sheets](https://github.com/Anlominus/Linux-PrivEsc/tree/main/Cheat%20Sheets#linux-privesc--cheat-sheets) | [Notes](./Notes)  | [Checklists](./Checklists)
 
+# [`Linux-PrivEsc`](https://github.com/Anlominus/Linux-PrivEsc)
+[**`Tools`**](https://github.com/Anlominus/Linux-PrivEsc/tree/main/GiTools#linux-privesc--gitools) | [**`Cheat Sheets`**](https://github.com/Anlominus/Linux-PrivEsc/tree/main/Cheat%20Sheets#linux-privesc--cheat-sheets) | [`Notes`](./Notes)  | [`Checklists`](./Checklists)
+  
 </div>

@@ -1,4 +1,4 @@
-# [Linux-PrivEsc]() ~ [Cheat Sheets]()
+# [Linux-PrivEsc](https://github.com/Anlominus/Linux-PrivEsc) ~ [Cheat Sheets](https://github.com/Anlominus/Linux-PrivEsc/tree/main/Cheat%20Sheets)
 
 ---
 

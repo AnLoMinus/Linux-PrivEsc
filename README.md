@@ -37,6 +37,8 @@ wget https://raw.githubusercontent.com/Anlominus/HacKingPro/main/Menu/14--Privil
 ```shell
 wget https://github.com/carlospolop/PEASS-ng/releases/latest/download/linpeas.sh; chmod 777 linpeas.sh
 ```  
+> ![image](https://user-images.githubusercontent.com/51442719/173901910-757fa5d0-0d72-4d2e-9df5-da64a886bc28.png)
+> **LinPEAS is a script that search for possible paths to escalate privileges on Linux/Unix\*/MacOS hosts. The checks are explained on [book.hacktricks.xyz](https://book.hacktricks.xyz/linux-hardening/privilege-escalation)**
 
 </div>
 

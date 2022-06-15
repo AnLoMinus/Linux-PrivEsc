@@ -6,8 +6,6 @@
   > A collection of Windows, Linux and MySQL privilege escalation scripts and exploits.
 ## [Linux-Smart-Enumeration](https://github.com/diego-treitos/linux-smart-enumeration)
   > Linux enumeration tool for pentesting and CTFs with verbosity levels
-## [GTFOPlus](https://github.com/netspooky/gtfoplus)
- > GTFOPlus is a helper script that relies on the GTFOBins repo to identify standard Linux binaries that could assist with privilege escalation.
 ## [Traitor](https://github.com/liamg/traitor)
   > ⬆️ ☠️ 🔥 Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
 ## [LinuxPrivescToolkit](https://github.com/mr-r3b00t/LinuxPrivescToolkit)
@@ -19,4 +17,7 @@
   > It gathers information and suggests the loophole in the system
 ## [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
   > A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-
+## [GTFOBins](https://github.com/CristinaSolana/ggtfobins)
+ > Get info from GTFOBins about a given exploit from the command line
+## [GTFOPlus](https://github.com/netspooky/gtfoplus)
+ > GTFOPlus is a helper script that relies on the GTFOBins repo to identify standard Linux binaries that could assist with privilege escalation.

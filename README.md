@@ -28,10 +28,15 @@
 ---
 
 ## Linux Enumeration 
-```shell
-wget https://raw.githubusercontent.com/Anlominus/HacKingPro/main/Menu/14--Privilege%20Enumeration%20%26%20Escalation/lse.sh; chmos 777 lse.sh
-```
   
+### LSE
+```shell
+wget https://raw.githubusercontent.com/Anlominus/HacKingPro/main/Menu/14--Privilege%20Enumeration%20%26%20Escalation/lse.sh; chmod 777 lse.sh
+```
+### LinPEAS
+```shell
+wget https://github.com/carlospolop/PEASS-ng/releases/latest/download/linpeas.sh; chmod 777 linpeas.sh
+```  
 
 </div>
 

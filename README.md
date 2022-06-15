@@ -25,4 +25,13 @@
 # [`Linux-PrivEsc`](https://github.com/Anlominus/Linux-PrivEsc)
 [**`Tools`**](https://github.com/Anlominus/Linux-PrivEsc/tree/main/GiTools#linux-privesc--gitools) | [**`Cheat Sheets`**](https://github.com/Anlominus/Linux-PrivEsc/tree/main/Cheat%20Sheets#linux-privesc--cheat-sheets) | [`Notes`](./Notes)  | [`Checklists`](./Checklists)
   
+---
+
+## Linux Enumeration 
+```shell
+wget https://raw.githubusercontent.com/Anlominus/HacKingPro/main/Menu/14--Privilege%20Enumeration%20%26%20Escalation/lse.sh; chmos 700 lse.sh; sh lse.sh
+```
+  
+
 </div>
+

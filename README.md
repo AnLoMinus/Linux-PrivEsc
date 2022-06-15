@@ -29,7 +29,7 @@
 
 ## Linux Enumeration 
 ```shell
-wget https://raw.githubusercontent.com/Anlominus/HacKingPro/main/Menu/14--Privilege%20Enumeration%20%26%20Escalation/lse.sh; chmos 700 lse.sh; sh lse.sh
+wget https://raw.githubusercontent.com/Anlominus/HacKingPro/main/Menu/14--Privilege%20Enumeration%20%26%20Escalation/lse.sh; chmos 777 lse.sh
 ```
   
 

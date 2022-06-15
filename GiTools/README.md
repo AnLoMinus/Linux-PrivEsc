@@ -1,4 +1,4 @@
-# Linux-PriEsc ~ GiTools
+# [Linux-PrivEsc](https://github.com/Anlominus/Linux-PrivEsc) ~ [GiTools](https://github.com/Anlominus/Linux-PrivEsc/tree/main/GiTools)
  
 ## [PEASS-ng](https://github.com/carlospolop/PEASS-ng)
   > PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)

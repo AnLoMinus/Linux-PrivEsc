@@ -23,7 +23,7 @@
 <div align="center">
   
 # [Linux-PrivEsc](https://github.com/Anlominus/Linux-PrivEsc)
-[Tools]() | [Cheat Sheets]() | [Notes]() 
+[Tools](https://github.com/Anlominus/Linux-PrivEsc/tree/main/GiTools#linux-privesc--gitools) | [Cheat Sheets]() | [Notes]() 
 
 </div>
 

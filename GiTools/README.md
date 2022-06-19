@@ -56,10 +56,17 @@ echo "
 \t\t GTFOPlus is a helper script that relies on the GTFOBins repo to identify standard Linux binaries that could assist with privilege escalation."
 git clone https://github.com/netspooky/gtfoplus
 
+echo "
+\t # lynis
+\t\t Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional."
+git clone https://github.com/CISOfy/lynis
+
 ```
 
 ---
-
+## [lynis](https://github.com/CISOfy/lynis)
+  > Lynis - Security auditing and hardening tool, for UNIX-based systems.
+  > ![image](https://user-images.githubusercontent.com/51442719/174491888-1d0e1ff8-d00e-49a8-bf10-5592b82cef45.png)
 ## [PEASS-ng](https://github.com/carlospolop/PEASS-ng)
   > PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 ## [PrivEsc](https://github.com/1N3/PrivEsc)
